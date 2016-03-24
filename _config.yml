@@ -1,0 +1,28 @@
+name: SoundExperience
+favicon: null
+layout_spectrum: 0.3427085652947426
+typography_spectrum: 0.07142203114926815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6370226554572582
+  lightness: 0.2859140234068036
+  saturation: 0.023120393743738532
+  rhythmicContrast: 0.8793520154431462
+purpose: []
