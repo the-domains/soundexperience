@@ -1,7 +1,7 @@
 ---
 title: '#renwick #wonder'
-datePublished: '2016-04-20T18:30:06.406Z'
-dateModified: '2016-04-20T17:46:41.849Z'
+datePublished: '2016-04-20T18:30:06.437Z'
+dateModified: '2016-04-20T17:47:02.996Z'
 author: []
 description: ''
 sourcePath: _posts/2016-04-20-renwick-wonder.md
@@ -13,4 +13,4 @@ _type: MediaObject
 
 ---
 # \#renwick \#wonder
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bd6e24b-f5ba-40b1-a85f-6a7459b1e0c1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b401153-0ce3-4587-96c7-cd12aea67e81.jpg)
