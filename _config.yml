@@ -1,9 +1,7 @@
-favicon: null
 name: SoundExperience
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9276596
+typography_spectrum: 0.07142203114926815
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Music and Art in the heart of the Nation's Capitol
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.25
-  brandStrength: 0.6370226554572582
-  rhythmicContrast: 0.5
   brandColors:
     - '#040203'
     - '#ffffff'
     - '#698368'
     - '#fead6b'
     - '#fe5758'
+  brandStrength: 0.6370226554572582
   lightness: 0.2859140234068036
-typography_spectrum: 0.07142203114926815
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.9276596
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.25
+  rhythmicContrast: 0.5
+purpose: []
